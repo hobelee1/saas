@@ -1,0 +1,21 @@
+{
+  "name": "guard-v14",
+  "version": "0.0.1",
+  "description": "WraithsDevs Sunucusuna Ait Altyapı",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "InFlames#2005",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "dblapi.js": "^2.4.1",
+    "discord-api-types": "^0.37.25",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "inflames.db": "^5.0.1",
+    "pnpm": "^7.25.1"
+  }
+}
